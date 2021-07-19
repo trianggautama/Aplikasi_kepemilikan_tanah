@@ -26,6 +26,7 @@ class DatabaseSeeder extends Seeder
             'tanggal_lahir' => '1997-05-05',
             'alamat' => 'banjarbaru',
             'role' => '1',
+
         ]);
     }
 }
