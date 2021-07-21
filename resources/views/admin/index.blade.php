@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<div class="content-wrapper">
+<div class="content-wrapper"> 
         <div class="content p-4">
             <div class="breadcrumb-wrapper d-flex justify-content-between align-items-center mb-0">
                 <div>
